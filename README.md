@@ -10,7 +10,7 @@ to install Prompt.
 ## Require
 Require with this code:
 ```javascript
-var prompt = require('stdin-prompt');
+var prompt = require('@thecoder08/prompt');
 ```
 ## Syntax
 ```javascript
